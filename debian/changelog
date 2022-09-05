@@ -1,0 +1,310 @@
+calamares-arm-oem (22.04.27~jammy) jammy; urgency=medium
+
+  * Try to fix shellprocess module
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 01 Sep 2022 09:58:48 +0400
+
+calamares-arm-oem (22.04.26~jammy) jammy; urgency=medium
+
+  * Remove unneeded service file
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 31 Aug 2022 11:54:02 +0400
+
+calamares-arm-oem (22.04.25~jammy) jammy; urgency=medium
+
+  * Replace cleanupoem.service with schellprocess module
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 28 Aug 2022 11:23:40 +0400
+
+calamares-arm-oem (22.04.24~jammy) jammy; urgency=medium
+
+  * Change cleanupoem and postoem modules rights
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sat, 27 Aug 2022 12:14:27 +0400
+
+calamares-arm-oem (22.04.23~jammy) jammy; urgency=medium
+
+  * Add packages module
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 11 Aug 2022 12:36:07 +0400
+
+calamares-arm-oem (22.04.22~jammy) jammy; urgency=medium
+
+  * Add displaymanager.conf
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Tue, 09 Aug 2022 00:10:25 +0400
+
+calamares-arm-oem (22.04.21~jammy) jammy; urgency=medium
+
+  * Typo
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 07 Aug 2022 11:10:15 +0400
+
+calamares-arm-oem (22.04.20~jammy) jammy; urgency=medium
+
+  * Initial release
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 07 Aug 2022 10:26:01 +0400
+
+calamares-settings-ubuntusway (22.04.20~jammy) jammy; urgency=medium
+
+  * Update slideshow
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 30 Jun 2022 13:36:36 +0400
+
+calamares-settings-ubuntusway (22.04.19~jammy) jammy; urgency=medium
+
+  * Text improvements
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 16 Jun 2022 22:28:52 +0400
+
+calamares-settings-ubuntusway (22.04.18~jammy) jammy; urgency=medium
+
+  * Improve welcome.png
+  * Remove scaling options
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 15 Jun 2022 20:47:09 +0400
+
+calamares-settings-ubuntusway (22.04.17~jammy) jammy; urgency=medium
+
+  * Add slideshow
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 15 Jun 2022 16:53:21 +0400
+
+calamares-settings-ubuntusway (22.04.15~jammy) jammy; urgency=medium
+
+  * Fix autostarting
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Fri, 10 Jun 2022 19:07:29 +0400
+
+calamares-settings-ubuntusway (22.04.14~jammy) jammy; urgency=medium
+
+  * Fix autostart
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Fri, 10 Jun 2022 19:00:46 +0400
+
+calamares-settings-ubuntusway (22.04.11) jammy; urgency=medium
+
+  * Fix grub-efi install
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 04 May 2022 18:55:03 +0400
+
+calamares-settings-ubuntusway (22.04.10) jammy; urgency=medium
+
+  * Fix errors
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 01 May 2022 00:33:57 +0400
+
+calamares-settings-ubuntusway (22.04.9) jammy; urgency=medium
+
+  * Adapt to greetd, add autostart config for Sway
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 01 May 2022 00:28:07 +0400
+
+calamares-settings-ubuntusway (22.04.8) jammy; urgency=medium
+
+  * Add autostart
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sat, 30 Apr 2022 17:23:33 +0400
+
+calamares-settings-ubuntusway (22.04.7) jammy; urgency=medium
+
+  * Add autostart
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sat, 30 Apr 2022 17:02:40 +0400
+
+calamares-settings-ubuntusway (22.04.6) jammy; urgency=medium
+
+  * Fixes
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sat, 23 Apr 2022 10:57:15 +0400
+
+calamares-settings-ubuntusway (22.04.5) jammy; urgency=medium
+
+  * Initial build
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sat, 23 Apr 2022 10:20:38 +0400
+
+calamares-settings-ubuntudde (2.1.2.8) impish; urgency=medium
+
+  * Change sidebar color.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Tue, 07 Dec 2021 15:04:41 +0545
+
+calamares-settings-ubuntudde (2.1.2.7) impish; urgency=medium
+
+  * Add impish artworks by Ananta and disable swap.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 05 Dec 2021 23:43:08 +0545
+
+calamares-settings-ubuntudde (2.1.2.6) impish; urgency=medium
+
+  * Rebuild.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 05 Dec 2021 18:01:01 +0545
+
+calamares-settings-ubuntudde (2.1.2.5) impish; urgency=medium
+
+  * Rebuild.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 04 Dec 2021 17:21:27 +0545
+
+calamares-settings-ubuntudde (2.1.2.4) impish; urgency=medium
+
+  * Rebuild.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 04 Dec 2021 16:28:07 +0545
+
+calamares-settings-ubuntudde (2.1.2.3) impish; urgency=medium
+
+  * Rebuild.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 04 Dec 2021 13:48:46 +0545
+
+calamares-settings-ubuntudde (2.1.2.2ubuntu1) impish; urgency=medium
+
+  * Rebuild with postinst adjustment.
+
+ -- Arun <aryan@aryan-pc>  Fri, 03 Dec 2021 22:30:48 +0545
+
+calamares-settings-ubuntudde (2.1.2.2) impish; urgency=medium
+
+  * fix postinst script.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Fri, 03 Dec 2021 19:53:54 +0545
+
+calamares-settings-ubuntudde (2.1.2.1) impish; urgency=medium
+
+  * Drop zram-config from packages.conf 
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Fri, 03 Dec 2021 15:24:33 +0545
+
+calamares-settings-ubuntudde (2.1.1ubuntu1) impish; urgency=medium
+
+  * Fix calamares installer on desktop.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 21 Nov 2021 21:14:54 +0545
+
+calamares-settings-ubuntudde (2.1.1) impish; urgency=medium
+
+  * set chown to Desktop directory.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Tue, 16 Nov 2021 17:03:42 +0545
+
+calamares-settings-ubuntudde (2.1.0) impish; urgency=medium
+
+  * Release to impish.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 02 Oct 2021 00:28:08 +0545
+
+calamares-settings-ubuntudde (2.0.9-1) hirsute; urgency=medium
+
+  * Release to hirsute.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Thu, 22 Apr 2021 01:16:39 +0545
+
+calamares-settings-ubuntudde (2.0.8-2) hirsute; urgency=medium
+
+  * Reupload with i386 support.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 28 Mar 2021 22:03:23 +0545
+
+calamares-settings-ubuntudde (2.0.8-1) hirsute; urgency=medium
+
+  * Refactored to hirsute.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 28 Mar 2021 21:54:59 +0545
+
+calamares-settings-ubuntudde (2.0.7-1) groovy; urgency=medium
+
+  * Changed the color of sidebar to a bit more blue.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 24 Oct 2020 13:28:00 +0545
+
+calamares-settings-ubuntudde (2.0.6-1) groovy; urgency=medium
+
+  * switch GeoIP to Cannonical.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Thu, 22 Oct 2020 12:27:08 +0545
+
+calamares-settings-ubuntudde (2.0.5-4) groovy; urgency=medium
+
+  * Changed bootloaderEntryName to ubuntu.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sun, 04 Oct 2020 22:44:58 +0545
+
+calamares-settings-ubuntudde (2.0.4-1) groovy; urgency=medium
+
+  * Changed apt-cdrom add timeout to 120.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sun, 04 Oct 2020 02:35:55 +0545
+
+calamares-settings-ubuntudde (2.0.3-1) groovy; urgency=medium
+
+  * Disabled oem mod.
+  * fixed double installer icon.
+  * Add desktop to Desktop.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sun, 04 Oct 2020 01:33:00 +0545
+
+calamares-settings-ubuntudde (2.0.2-1) groovy; urgency=medium
+
+  * Enabled oem mode.
+  * updated installer icon and info page.
+  * Changed QT_QPA_PLATFORMTHEME to gtk3 as the checkbox is not working in QT5.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 03 Oct 2020 15:48:53 +0545
+
+calamares-settings-ubuntudde (2.0.1) groovy; urgency=emergency
+
+  * Preparing for groovy upload.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Fri, 02 Oct 2020 23:45:19 +0545
+
+calamares-settings-ubuntudde (1.0.1) focal; urgency=emergency
+
+  * Added check for session.log file.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Tue, 05 May 2020 12:50:15 +0545
+
+calamares-settings-ubuntudde (1.0.0-9) focal; urgency=high
+
+  * Changed Calamares Installer height to 485px
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Fri, 01 May 2020 21:44:28 +0545
+
+calamares-settings-ubuntudde (1.0.0-8) focal; urgency=high
+
+  * Changed the Min RAM Required to 1.5G
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Wed, 22 Apr 2020 12:10:13 +0545
+
+calamares-settings-ubuntudde (1.0.0-7) focal; urgency=high
+
+  * Changed sidebar color code and height of the installer
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Wed, 22 Apr 2020 00:15:29 +0545
+
+calamares-settings-ubuntudde (1.0.0-6) focal; urgency=high
+
+  * Added calamares sidebar background color.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Fri, 10 Apr 2020 17:23:41 +0545
+
+calamares-settings-ubuntudde (1.0.0-4) focal; urgency=high
+
+  * Changed the sequence of exec to fix the apt-cdrom issue on the installer
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Thu, 09 Apr 2020 12:39:22 +0545
+
+calamares-settings-ubuntudde (1.0.0-2) focal; urgency=high
+
+  * Changed windowExpanding to normal
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sun, 05 Apr 2020 12:07:54 +0545
+
+calamares-settings-ubuntudde (1.0.0-1) focal; urgency=high
+
+  * Initial Release
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 04 Apr 2020 20:56:46 +0545

@@ -1,0 +1,4 @@
+ubuntusway/branding/      etc/calamares/
+ubuntusway/modules/       etc/calamares/
+ubuntusway/settings.conf  etc/calamares/
+calamares.desktop         etc/skel/.config/autostart/

@@ -1,0 +1,28 @@
+---
+componentName: ubuntusway
+
+windowExpanding: normal
+
+strings:
+    productName:         Ubuntu Sway Remix
+    shortProductName:    Ubuntu Sway
+    version:             22.04
+    shortVersion:        jammy
+    versionedName:       Ubuntu Sway
+    shortVersionedName:  Ubuntu Sway 22.04
+    bootloaderEntryName: ubuntu
+
+images:
+    productLogo:         "logo.png"
+    productIcon:         "icon.png"
+    productWelcome:      "welcome.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#2f2f2f"
+   sidebarText:          "#eeeeee"
+   sidebarTextSelect:    "#2f2f2f"
+   sidebarTextSelect:    "#2f2f2f"
+
+slideshowAPI: 1

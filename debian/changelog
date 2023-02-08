@@ -1,3 +1,9 @@
+calamares-arm-oem (23.04.27~lunar) lunar; urgency=medium
+
+  * Initial upload to Lunar
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 08 Feb 2023 18:17:23 +0400
+
 calamares-arm-oem (22.04.27~jammy) jammy; urgency=medium
 
   * Try to fix shellprocess module

@@ -6,10 +6,10 @@ windowExpanding: normal
 strings:
     productName:         Ubuntu Sway Remix
     shortProductName:    Ubuntu Sway
-    version:             22.04
-    shortVersion:        jammy
+    version:             23.04
+    shortVersion:        lunar
     versionedName:       Ubuntu Sway
-    shortVersionedName:  Ubuntu Sway 22.04
+    shortVersionedName:  Ubuntu Sway 23.04
     bootloaderEntryName: ubuntu
 
 images:
@@ -20,9 +20,8 @@ images:
 slideshow:               "show.qml"
 
 style:
-   sidebarBackground:    "#2f2f2f"
-   sidebarText:          "#eeeeee"
-   sidebarTextSelect:    "#2f2f2f"
-   sidebarTextSelect:    "#2f2f2f"
+   SidebarBackground:    "#2F2F2F"
+   SidebarText:          "#EEEEEE"
+   SidebarTextSelect:    "#2F2F2F"
 
 slideshowAPI: 1

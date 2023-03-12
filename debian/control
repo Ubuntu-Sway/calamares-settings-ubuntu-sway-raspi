@@ -6,7 +6,7 @@ Build-Depends: debhelper-compat (= 13),
                intltool,
                qttools5-dev-tools
 Standards-Version: 4.5.1
-Homepage: https://github.com/Ubuntu-Sway/calamares-settings-ubuntusway
+Homepage: https://github.com/Ubuntu-Sway/calamares-arm-oem
 
 Package: calamares-arm-oem
 Architecture: arm64
@@ -14,8 +14,9 @@ Depends: ${misc:Depends},
          calamares (>= 3.2.14~),
          keyutils,
          python3,
+         python3-toml,
          qml-module-qtquick-window2,
          qml-module-qtquick2,
          squashfs-tools
-Conflicts: calamares-settings-ubuntusway
+Conflicts: calamares-settings-ubuntu-sway
 Description: OEM config for Calamares on ARM

@@ -1,3 +1,9 @@
+calamares-settings-ubuntu-sway-raspi (23.04.33~lunar) lunar; urgency=medium
+
+  * Rename package
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 15 Mar 2023 18:40:28 +0400
+
 calamares-settings-raspi-ubuntu-sway (23.04.32~lunar) lunar; urgency=medium
 
   * Rename package

@@ -1,4 +1,4 @@
-Source: calamares-arm-oem
+Source: calamares-settings-raspi-ubuntu-sway
 Section: devel
 Priority: optional
 Maintainer: Aleksey Samoilov <samoilov.lex@gmail.com>
@@ -6,9 +6,9 @@ Build-Depends: debhelper-compat (= 13),
                intltool,
                qttools5-dev-tools
 Standards-Version: 4.5.1
-Homepage: https://github.com/Ubuntu-Sway/calamares-arm-oem
+Homepage: https://github.com/Ubuntu-Sway/calamares-settings-raspi-ubuntu-sway
 
-Package: calamares-arm-oem
+Package: calamares-settings-raspi-ubuntu-sway
 Architecture: arm64
 Depends: ${misc:Depends},
          calamares (>= 3.2.14~),
@@ -19,4 +19,4 @@ Depends: ${misc:Depends},
          qml-module-qtquick2,
          squashfs-tools
 Conflicts: calamares-settings-ubuntu-sway
-Description: OEM config for Calamares on ARM
+Description: Calamares settings for Ubuntu Sway on Raspberry Pi

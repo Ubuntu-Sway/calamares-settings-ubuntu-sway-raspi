@@ -1,3 +1,15 @@
+calamares-settings-raspi-ubuntu-sway (23.04.32~lunar) lunar; urgency=medium
+
+  * Rename package
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Wed, 15 Mar 2023 18:35:27 +0400
+
+calamares-arm-oem (23.04.31~lunar) lunar; urgency=medium
+
+  * Adapt to Lunar Lobster branding
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 12 Mar 2023 12:59:42 +0400
+
 calamares-arm-oem (23.04.30~lunar) lunar; urgency=medium
 
   * Adapt to Lunar Lobster branding
@@ -9,7 +21,6 @@ calamares-arm-oem (23.04.29~lunar) lunar; urgency=medium
   * Setup user and group for greetd
 
  -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sat, 11 Mar 2023 13:25:08 +0400
->>>>>>> 65bb2b6 (Adpat to Lunar Lobster branding)
 
 calamares-arm-oem (22.04.27~jammy) jammy; urgency=medium
 

@@ -1,3 +1,9 @@
+calamares-settings-ubuntu-sway-raspi (23.04.34~lunar) lunar; urgency=medium
+
+  * Fix removing Calamares settings package
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Fri, 17 Mar 2023 12:52:03 +0400
+
 calamares-settings-ubuntu-sway-raspi (23.04.33~lunar) lunar; urgency=medium
 
   * Rename package

@@ -21,7 +21,11 @@ calamares-arm-oem (23.04.31~lunar) lunar; urgency=medium
   * Adapt to Lunar Lobster branding
 
  -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 12 Mar 2023 12:59:42 +0400
+calamares-settings-ubuntu-sway-raspi (23.04.35~lunar) lunar; urgency=medium
 
+  * Update slideshow
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 30 Mar 2023 19:21:35 +0400
 calamares-arm-oem (23.04.30~lunar) lunar; urgency=medium
 
   * Adapt to Lunar Lobster branding

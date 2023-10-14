@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=Application
 Version=1.0
-Name=Setup Ubuntu Sway ARM
+Name=Setup Ubuntu Sway RPi
 GenericName=OEM Setup
-Comment=Finish the Ubuntu Sway ARM installation
+Comment=Finish the Ubuntu Sway RPi installation
 Exec=sudo -E calamares
 Icon=calamares
 Terminal=false

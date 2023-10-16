@@ -7,7 +7,7 @@ DEB_HOST_MULTIARCH ?= $(shell dpkg-architecture -qDEB_HOST_MULTIARCH)
 
 override_dh_missing:
 	dh_missing
-	mkdir -pv debian/calamares-arm-oem/usr/lib/$(DEB_HOST_MULTIARCH)/calamares/modules
-	cp -vr common/modules/* debian/calamares-arm-oem/usr/lib/$(DEB_HOST_MULTIARCH)/calamares/modules
-	chmod -R 755 debian/calamares-arm-oem/usr/lib/
-	chmod 644 debian/calamares-arm-oem/usr/lib/$(DEB_HOST_MULTIARCH)/calamares/modules/postoem/module.desc
+	mkdir -pv debian/calamares-settings-ubuntu-sway-raspi/usr/lib/$(DEB_HOST_MULTIARCH)/calamares/modules
+	cp -vr common/modules/* debian/calamares-settings-ubuntu-sway-raspi/usr/lib/$(DEB_HOST_MULTIARCH)/calamares/modules
+	chmod -R 755 debian/calamares-settings-ubuntu-sway-raspi/usr/lib/
+	chmod 644 debian/calamares-settings-ubuntu-sway-raspi/usr/lib/$(DEB_HOST_MULTIARCH)/calamares/modules/postoem/module.desc

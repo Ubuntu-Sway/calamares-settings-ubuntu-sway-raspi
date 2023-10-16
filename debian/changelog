@@ -1,3 +1,9 @@
+calamares-settings-ubuntu-sway-raspi (23.10.1~mantic) mantic; urgency=medium
+
+  * Fix postoem module install
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Mon, 16 Oct 2023 16:40:02 +0400
+
 calamares-settings-ubuntu-sway-raspi (23.10~mantic) mantic; urgency=medium
 
   * Initial RPi packaging for Mantic

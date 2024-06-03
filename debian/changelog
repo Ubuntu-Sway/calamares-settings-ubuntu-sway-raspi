@@ -1,3 +1,9 @@
+calamares-settings-ubuntu-sway-raspi (24.04~noble) noble; urgency=medium
+
+  * Build for Noble
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Mon, 03 Jun 2024 20:18:41 +0400
+
 calamares-settings-ubuntu-sway-raspi (23.10.1~mantic) mantic; urgency=medium
 
   * Fix postoem module install

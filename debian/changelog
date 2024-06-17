@@ -1,3 +1,9 @@
+calamares-settings-ubuntu-sway-raspi (24.04.1~noble) noble; urgency=medium
+
+  * Update branding
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Mon, 17 Jun 2024 16:59:39 +0400
+
 calamares-settings-ubuntu-sway-raspi (24.04~noble) noble; urgency=medium
 
   * Build for Noble

@@ -1,3 +1,9 @@
+calamares-settings-ubuntu-sway-raspi (25.04.1~plucky) plucky; urgency=medium
+
+  * Plucky Puffin
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Tue, 18 Mar 2025 16:25:57 +0400
+
 calamares-settings-ubuntu-sway-raspi (24.10.1~oracular) oracular; urgency=medium
 
   * Update version

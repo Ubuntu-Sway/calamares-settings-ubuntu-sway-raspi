@@ -1,3 +1,9 @@
+calamares-settings-ubuntu-sway-raspi (25.10.2~questing) questing; urgency=medium
+
+  * Adapt to sudo-rs
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Fri, 07 Nov 2025 10:40:34 +0400
+
 calamares-settings-ubuntu-sway-raspi (25.10.1~questing) questing; urgency=medium
 
   * Upload to Questing

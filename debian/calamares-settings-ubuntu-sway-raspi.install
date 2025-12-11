@@ -1,4 +1,5 @@
-ubuntusway/branding/      etc/calamares/
-ubuntusway/modules/       etc/calamares/
-ubuntusway/settings.conf  etc/calamares/
-calamares.desktop         etc/skel/.config/autostart/
+ubuntusway/branding/            etc/calamares/
+ubuntusway/modules/             etc/calamares/
+ubuntusway/settings.conf        etc/calamares/
+ubuntusway/install-ubuntu-sway  usr/bin/
+calamares.desktop               etc/skel/.config/autostart/

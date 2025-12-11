@@ -1,0 +1,4 @@
+#!/bin/bash
+
+xhost +si:localuser:root
+sudo QT_STYLE_OVERRIDE=fusion calamares -D8

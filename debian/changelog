@@ -1,3 +1,10 @@
+calamares-settings-ubuntu-sway-raspi (25.10.3~questing) questing; urgency=medium
+
+  * Update welcome.png
+  * Fix installer launch
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Thu, 11 Dec 2025 23:49:31 +0400
+
 calamares-settings-ubuntu-sway-raspi (25.10.2~questing) questing; urgency=medium
 
   * Adapt to sudo-rs

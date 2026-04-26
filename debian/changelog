@@ -1,3 +1,9 @@
+calamares-settings-ubuntu-sway-raspi (26.04.2~resolute) resolute; urgency=medium
+
+  * Add sudoers for OEM mode
+
+ -- Aleksey Samoilov <samoilov.lex@gmail.com>  Sun, 26 Apr 2026 21:02:06 +0400
+
 calamares-settings-ubuntu-sway-raspi (26.04.1~resolute) resolute; urgency=medium
 
   * Update branding for Resolute

@@ -1,6 +1,6 @@
 ubuntusway/branding/            etc/calamares/
 ubuntusway/modules/             etc/calamares/
 ubuntusway/settings.conf        etc/calamares/
-ubuntusway/sudoers.oem          etc/calamares/
+ubuntusway/oem-nopasswd         etc/sudoers.d/
 ubuntusway/install-ubuntu-sway  usr/bin/
 calamares.desktop               etc/skel/.config/autostart/

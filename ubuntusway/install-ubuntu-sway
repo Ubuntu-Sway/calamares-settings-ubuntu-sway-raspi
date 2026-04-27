@@ -1,10 +1,4 @@
 #!/bin/bash
 
-sudo mv /etc/sudoers /etc/sudoers.orig
-sudo mv /etc/sudoers.oem /etc/sudoers
-
 xhost +si:localuser:root
 sudo QT_STYLE_OVERRIDE=fusion calamares -D8
-xhost -si:localuser:root
-
-sudo mv /etc/sudoers.orig /etc/sudoers
